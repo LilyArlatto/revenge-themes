@@ -13,6 +13,9 @@
         ],
         "BACKGROUND_ACCENT": [
             "#97A0F2"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#131318"
         ]
     },
     "spec": 2
