@@ -1,5 +1,5 @@
 {
-    "name": "Midnight-Perriwinkle",
+    "name": "Midnight Perriwinkle",
     "description": "Personal use theme",
     "authors": [
         {
@@ -141,7 +141,7 @@
             "#A7A7FF"
         ],
         "TEXT_LINK": [
-            "#97A0F2"
+            "#CFD3F9"
         ],
         "TEXT_MUTED": [
             "#818491"
