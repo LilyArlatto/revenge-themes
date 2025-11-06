@@ -7,4 +7,10 @@
             "id": "215709405608411136"
         }
     ],
-  spec: 2;
+    "semanticColors": {
+        "ANDROID_RIPPLE": [
+            "#cfd3f9"
+        ],
+    },
+  spec: 2
+}
