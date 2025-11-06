@@ -27,10 +27,10 @@
             "#000000"
         ],
         "BACKGROUND_SECONDARY": [
-            "#181822"
+            "#0D0D17"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#30303A"
+            "#1A1A24"
         ],
         "BACKGROUND_TERTIARY": [
             "#97A0F2"
@@ -51,28 +51,34 @@
             "#97A0F2"
         ],
         "BG_MOD_FAINT": [
-            "#30303A"
+            "#1A1A24"
         ],
         "BG_MOD_STRONG": [
-            "#30303A"
+            "#1A1A24"
         ],
         "BG_SURFACE_OVERLAY_TMP": [
-            "#30303A"
+            "#1A1A24"
         ],
         "BG_SURFACE_RAISED": [
-            "#30303A"
+            "#1A1A24"
         ],
         "BORDER_FAINT": [
-            "#30303A"
+            "#1A1A24"
         ],
         "BORDER_STRONG": [
-            "#30303A"
+            "#1A1A24"
         ],
         "BORDER_SUBTLE": [
-            "#30303A"
+            "#1A1A24"
         ],
         "BUTTON_OUTLINE_DANGER_BORDER": [
             "#A980FF"
+        ],
+        "CARD_PRIMARY_BG": [
+            "#1A1A24"
+        ],
+        "CARD_SECONDARY_BG": [
+            "#1A1A24"
         ]
     },
     "spec": 2
