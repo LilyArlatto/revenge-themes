@@ -9,10 +9,10 @@
     ],
     "semanticColors": {
         "ANDROID_RIPPLE": [
-            "#BABEE0"
+            "#97A0F2"
         ],
         "BACKGROUND_ACCENT": [
-            "#BABEE0"
+            "#97A0F2"
         ],
         "BACKGROUND_FLOATING": [
             "#131318"
@@ -21,13 +21,16 @@
             "#BCBCF01A"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#BABEE0"
+            "#97A0F2"
         ],
         "BACKGROUND_PRIMARY": [
             "#000000"
         ],
         "BACKGROUND_SECONDARY": [
             "#131318"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#2C2D35"
         ]
     },
     "spec": 2
