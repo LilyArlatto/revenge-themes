@@ -46,6 +46,30 @@
         ],
         "BG_BASE_TERTIARY": [
             "#000000"
+        ],
+        "BG_BRAND": [
+            "#97A0F2"
+        ],
+        "BG_MOD_FAINT": [
+            "#303030"
+        ],
+        "BG_MOD_STRONG": [
+            "#303030"
+        ],
+        "BG_SURFACE_OVERLAY_TMP": [
+            "#303030"
+        ],
+        "BG_SURFACE_RAISED": [
+            "#303030"
+        ],
+        "BORDER_FAINT": [
+            "#303030"
+        ],
+        "BORDER_STRONG": [
+            "#303030"
+        ],
+        "BORDER_SUBTLE": [
+            "#303030"
         ]
     },
     "spec": 2
