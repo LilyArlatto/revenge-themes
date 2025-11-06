@@ -128,6 +128,9 @@
         "TEXT_LINK": [
             "#97A0F2"
         ],
+        "TEXT_MUTED": [
+            "#818491"
+        ],
         "THREAD_CHANNEL_SPINE": [
             "#97A0F2"
         ]
