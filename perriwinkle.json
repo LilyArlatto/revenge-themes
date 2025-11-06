@@ -13,6 +13,9 @@
         ],
         "BACKGROUND_ACCENT": [
             "#cfd3f9"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#cfd3f9"
         ]
     },
     "spec": 2
