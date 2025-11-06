@@ -22,6 +22,9 @@
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
             "#BABEE0"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#000000"
         ]
     },
     "spec": 1
