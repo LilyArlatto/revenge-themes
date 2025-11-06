@@ -152,8 +152,9 @@
     },
     "rawColors": {
         "BLUE_345": "#97A0F2",
-        "BRAND_260": "#97A0F2",
+        "BRAND_260": "#A7A7FF",
         "BRAND_360": "#97A0F2",
+        "BRAND_560": "#97A0F2",
         "PLUM_14": "#97A0F2",
         "RED_400": "#A980FF"
     },
