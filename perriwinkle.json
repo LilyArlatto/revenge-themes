@@ -79,6 +79,48 @@
         ],
         "CARD_SECONDARY_BG": [
             "#1A1A24"
+        ],
+        "CHANNEL_ICON": [
+            "#1A1A24"
+        ],
+        "DIVIDER_SUBTLE": [
+            "#1A1A24"
+        ],
+        "EMBED_BACKGROUND": [
+            "#1A1A24"
+        ],
+        "EXPRESSION_PICKER_BG": [
+            "#1A1A24"
+        ],
+        "INPUT_BACKGROUND": [
+            "#0D0D17"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#262630"
+        ],
+        "PANEL_BG": [
+            "#0D0D17"
+        ],
+        "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
+            "#97A0F2"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+            "#1A1A24"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BORDER": [
+            "#262630"
+        ],
+        "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
+            "#1A1A24"
+        ],
+        "REDESIGN_CHAT_INPUT_BACKGROUND": [
+            "#1A1A24"
+        ],
+        "REDESIGN_INPUT_CONTROL_ACTIVE_BG": [
+            "#1A1A24"
+        ],
+        "REDESIGN_INPUT_CONTROL_SELECTED": [
+            "#97A0F2"
         ]
     },
     "spec": 2
