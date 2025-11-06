@@ -128,6 +128,12 @@
         "REDESIGN_INPUT_CONTROL_SELECTED": [
             "#97A0F2"
         ],
+        "STATUS_DANGER": [
+            "#A980FF"
+        ],
+        "STATUS_DANGER_BACKGROUND": [
+            "#9678E6"
+        ],
         "TEXT_DANGER": [
             "#A980FF"
         ],
