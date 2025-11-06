@@ -16,7 +16,10 @@
         ],
         "BACKGROUND_FLOATING": [
             "#131318"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#BCBCF01A"
         ]
     },
-    "spec": 2
+    "spec": 1
 }
