@@ -19,6 +19,9 @@
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#BCBCF01A"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#BABEE0"
         ]
     },
     "spec": 1
