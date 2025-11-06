@@ -134,8 +134,11 @@
         "STATUS_DANGER_BACKGROUND": [
             "#9678E6"
         ],
+        "STATUS_DND": [
+            "#F23F43"
+        ],
         "TEXT_DANGER": [
-            "#A980FF"
+            "#A7A7FF"
         ],
         "TEXT_LINK": [
             "#97A0F2"
@@ -151,7 +154,8 @@
         "BLUE_345": "#97A0F2",
         "BRAND_260": "#97A0F2",
         "BRAND_360": "#97A0F2",
-        "PLUM_14": "#97A0F2"
+        "PLUM_14": "#97A0F2",
+        "RED_400": "#A980FF"
     },
     "spec": 2
 }
