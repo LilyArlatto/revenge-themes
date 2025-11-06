@@ -81,7 +81,7 @@
             "#1A1A24"
         ],
         "CHANNEL_ICON": [
-            "#1A1A24"
+            "#262630"
         ],
         "DIVIDER_SUBTLE": [
             "#1A1A24"
@@ -120,6 +120,15 @@
             "#1A1A24"
         ],
         "REDESIGN_INPUT_CONTROL_SELECTED": [
+            "#97A0F2"
+        ],
+        "TEXT_DANGER": [
+            "#A980FF"
+        ],
+        "TEXT_LINK": [
+            "#97A0F2"
+        ],
+        "THREAD_CHANNEL_SPINE": [
             "#97A0F2"
         ]
     },
