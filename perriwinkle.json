@@ -11,6 +11,9 @@
         "ANDROID_RIPPLE": [
             "#cfd3f9"
         ],
+        "BACKGROUND_ACCENT": [
+            "#cfd3f9"
+        ]
     },
-  "spec": 2
+    "spec": 2
 }
