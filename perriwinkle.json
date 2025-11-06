@@ -9,13 +9,10 @@
     ],
     "semanticColors": {
         "ANDROID_RIPPLE": [
-            "#97A0F2"
+            "#6E7AED"
         ],
         "BACKGROUND_ACCENT": [
-            "#97A0F2"
-        ],
-        "BACKGROUND_FLOATING": [
-            "#97A0F2"
+            "#6E7AED"
         ]
     },
     "spec": 2
