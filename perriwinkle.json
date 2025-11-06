@@ -27,10 +27,10 @@
             "#000000"
         ],
         "BACKGROUND_SECONDARY": [
-            "#181818"
+            "#181822"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#303030"
+            "#30303A"
         ],
         "BACKGROUND_TERTIARY": [
             "#97A0F2"
@@ -51,25 +51,28 @@
             "#97A0F2"
         ],
         "BG_MOD_FAINT": [
-            "#303030"
+            "#30303A"
         ],
         "BG_MOD_STRONG": [
-            "#303030"
+            "#30303A"
         ],
         "BG_SURFACE_OVERLAY_TMP": [
-            "#303030"
+            "#30303A"
         ],
         "BG_SURFACE_RAISED": [
-            "#303030"
+            "#30303A"
         ],
         "BORDER_FAINT": [
-            "#303030"
+            "#30303A"
         ],
         "BORDER_STRONG": [
-            "#303030"
+            "#30303A"
         ],
         "BORDER_SUBTLE": [
-            "#303030"
+            "#30303A"
+        ],
+        "BUTTON_OUTLINE_DANGER_BORDER": [
+            "#A980FF"
         ]
     },
     "spec": 2
