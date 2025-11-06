@@ -31,6 +31,21 @@
         ],
         "BACKGROUND_SECONDARY_ALT": [
             "#303030"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#97A0F2"
+        ],
+        "BG_BACKDROP": [
+            "#212229bf"
+        ],
+        "BG_BASE_PRIMARY": [
+            "#000000"
+        ],
+        "BG_BASE_SECONDARY": [
+            "#000000"
+        ],
+        "BG_BASE_TERTIARY": [
+            "#000000"
         ]
     },
     "spec": 2
