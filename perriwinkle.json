@@ -92,6 +92,12 @@
         "EXPRESSION_PICKER_BG": [
             "#1A1A24"
         ],
+        "INFO_DANGER_FOREGROUND": [
+            "#A980FF"
+        ],
+        "INFO_DANGER_BACKGROUND": [
+            "#A980FF1A"
+        ],
         "INPUT_BACKGROUND": [
             "#0D0D17"
         ],
